@@ -4,7 +4,7 @@ I'm an enthusiastic developer passionate about building impactful AI/ML solution
 
 - 🌐 All of my projects are available at [Portfolio](https://kabir-portfolio-management.vercel.app/)  
 - 📫 How to reach me: **mathurkabir336@gmail.com**  
-- 💼 Know about my experiences: [Resume](https://drive.google.com/file/d/your_resume_link)  
+- 💼 Know about my experiences: [Resume]([https://drive.google.com/file/d/your_resume_link](https://drive.google.com/file/d/12klFBCLBjhaJ9LZtsqr-IsNZq5svt5W4/view?usp=sharing))  
 
 ---
 
