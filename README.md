@@ -42,7 +42,4 @@ I'm an enthusiastic developer passionate about building impactful AI/ML solution
 
 
 ---
-
-### 📊 GitHub Stats  
-![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabir-999&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-999&layout=compact&theme=radical)  
