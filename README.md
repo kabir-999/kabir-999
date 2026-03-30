@@ -10,7 +10,7 @@ I'm an enthusiastic developer passionate about building impactful AI/ML solution
 
 ### Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir-mathur-655429292)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kabir-999)  
+[![mail]](mathurkabir336@gmail.com)
 
 ---
 
