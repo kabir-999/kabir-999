@@ -11,16 +11,6 @@ I'm an enthusiastic developer passionate about building impactful AI/ML solution
 ### Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir-mathur-655429292)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathurkabir336@gmail.com)
-
----
-
-### 🚀 Projects  
-- [AI Law Summarizer](https://github.com/kabir-999/ai_law_summarizer) – NLP-based legal document summarizer  
-- [AI-driven Crop Disease Detection (Shetkari App)](https://github.com/Aagnya-Mistry/SIH_Shetkari) – ML-powered farming app  
-- [Artifact Identifier](https://github.com/kabir-999/authenticity-check) – Identifies & verifies historical artifacts  
-- [Fraud Detection in SMEs](https://innovathon-beaches.vercel.app/) – Fraud analysis platform for businesses  
-- [Blockchain Voting System](#) – Transparent, tamper-resistant voting mechanism  
-
 ---
 
 ### 🛠️ Languages and Tools  
@@ -39,7 +29,4 @@ I'm an enthusiastic developer passionate about building impactful AI/ML solution
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-999&layout=compact&theme=radical)  
+ 
