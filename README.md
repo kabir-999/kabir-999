@@ -89,7 +89,3 @@ A vulnerability scanner combining static analysis with headless-Chromium crawlin
 - 📜 Amazon ML Summer School · AWS Machine Learning & Cloud Certified · Microsoft GenAI for Data Science (Coursera)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabir-999&show_icons=true&theme=default" alt="Kabir's GitHub Stats"/>
-</p>
